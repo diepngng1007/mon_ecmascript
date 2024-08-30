@@ -1,0 +1,7 @@
+.container_signin{
+    position: static !important;
+}
+#href_signup{
+    margin-top: 18px!important;
+    cursor: pointer;
+}

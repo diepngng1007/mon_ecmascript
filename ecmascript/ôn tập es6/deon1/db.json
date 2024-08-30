@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "bánh cake",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "price": "123000",
+      "quantity": "5",
+      "description": "đẹp",
+      "id": 14
+    },
+    {
+      "name": "Nguyễn Ngọc Diệp",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "price": "123",
+      "quantity": "5",
+      "description": "xau",
+      "id": 19
+    },
+    {
+      "name": "Conan",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "price": "15000",
+      "quantity": "10",
+      "description": "chán",
+      "id": 20
+    }
+  ],
+  "accounts": [
+    {
+      "username": "diep nguyen",
+      "password": "password123",
+      "email": "diep@example.com",
+      "address": "hanoi",
+      "id": 1
+    },
+    {
+      "username": "nguyen van a",
+      "password": "nva123",
+      "email": "nva@example.com",
+      "address": "hanoi",
+      "id": 2
+    },
+    {
+      "username": "vando",
+      "password": "12345",
+      "email": "diepnnph30666@fpt.edu.vn",
+      "address": "ha noi",
+      "id": 3
+    },
+    {
+      "username": "diep",
+      "password": "abc123",
+      "email": "diep@gmail.com",
+      "address": "nam tu liem",
+      "id": 4
+    }
+  ]
+}

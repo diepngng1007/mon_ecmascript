@@ -1,0 +1,132 @@
+.container_add-cate {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: relative;
+  }
+  
+  /* Style the category info section */
+  .category-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: space-between;
+  }
+  
+  .category-info img {
+    max-width: 150px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .category-title {
+    width: 100%;
+  }
+  
+  .category-details {
+    width: 60%;
+  }
+  
+  .category-details textarea {
+    height: 400px;
+  }
+  
+  .category-details input[type=text],
+  .category-details textarea,
+  .category-details select,
+  .category-details input[type=number] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style the category actions section */
+  .category-actions {
+  position: static;
+  }
+  
+  .update-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Add some spacing between elements */
+  .category-info .category-quantity {
+    margin-top: 10px;
+  }
+  
+  #category-quantity {
+    width: 20%;
+  }
+  
+  select[name=category-status] {
+    width:25%;
+  }
+  
+  select[name=category-status]:focus {
+    outline: none;
+  }
+  
+  select[name=category-cate] {
+    width: 15%;
+  }
+  
+  select[name=category-cate]:focus {
+    outline: none;
+  }
+  
+  .check-img {
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .check-img img {
+    margin-top: 30px;
+  }
+  
+  #category-cate {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  select {
+    background-color: white;
+    color: black;
+  }
+  input:focus{
+    outline: none;
+  }
+  textarea:focus{
+    outline: none;
+  }
+  #showCate{
+    width: 100%;
+    overflow-y: auto;
+    height: 300px;
+  }
+  .optionCategory{
+    white-space: nowrap;
+    cursor: pointer;
+    padding: 5px 2px;
+
+  }
+  .optionCategory:hover{
+    background-color: rgba(0, 0, 0, 0.124);
+    text-overflow: ellipsis;
+  }

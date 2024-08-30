@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "name": "Apple Watch Ultra GPS",
+      "price": "10000000000",
+      "image": "https://picsum.photos/150/100",
+      "id": 4
+    },
+    {
+      "name": "Nguyễn Ngọc Diệp",
+      "price": "23000",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "id": 5
+    },
+    {
+      "name": "vuejs",
+      "price": "123000",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "price": "234444",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "id": 7
+    },
+    {
+      "name": "bánh dâu",
+      "price": "1233",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "123456"
+    },
+    {
+      "email": "diepnnph30666@fpt.edu.vn",
+      "password": "$2a$10$XO9lJAgntZ1TMNP8pAFUZ.THClZYAxQiFrYEr7WMvMIFfMdqjJi7y",
+      "username": "diep",
+      "id": 2
+    }
+  ]
+}

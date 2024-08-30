@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "bánh dâu",
+      "categories": "Loại 1",
+      "description": "còn hàng",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "origin_price": "111",
+      "id": 8
+    },
+    {
+      "name": "bánh dâu",
+      "categories": "Loại 2",
+      "description": "còn hàng",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "origin_price": "11",
+      "id": 9
+    },
+    {
+      "name": "bánh dâu",
+      "categories": "Loại 2",
+      "description": "còn hàng",
+      "image": "anh12",
+      "origin_price": "65",
+      "id": 10
+    },
+    {
+      "name": "bánh dâu",
+      "categories": "Loại 1",
+      "description": "còn hàng",
+      "image": "anh12",
+      "origin_price": "121",
+      "id": 11
+    },
+    {
+      "name": "bánh dâu",
+      "categories": "Loại 1",
+      "description": "còn hàng",
+      "image": "anh12",
+      "origin_price": "111",
+      "id": 12
+    },
+    {
+      "name": "bánh dâu",
+      "categories": "Loại 1",
+      "description": "còn hàng",
+      "image": "anh12",
+      "origin_price": "11",
+      "id": 13
+    },
+    {
+      "name": "bánh dâu",
+      "categories": "Loại 1",
+      "description": "còn hàng",
+      "image": "anh12",
+      "origin_price": "11",
+      "id": 14
+    },
+    {
+      "name": "abc",
+      "categories": "Loại 1",
+      "description": "đẹp",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "origin_price": "500",
+      "id": 15
+    }
+  ]
+}

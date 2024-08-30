@@ -1,0 +1,134 @@
+.container_add-prd {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+  }
+  
+  /* Style the product info section */
+  .product-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: space-between;
+  }
+  
+  .product-info img {
+    max-width: 150px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .product-title {
+    width: 100%;
+  }
+  
+  .product-details {
+    width: 60%;
+  }
+  
+  .product-details textarea {
+    height: 400px;
+  }
+  
+  .product-details input[type=text],
+  .product-details textarea,
+  .product-details select,
+  .product-details input[type=number] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style the product actions section */
+  .product-actions {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+  
+  .update-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Add some spacing between elements */
+  .product-info .product-quantity {
+    margin-top: 10px;
+  }
+  
+  #product-quantity {
+    width: 20%;
+  }
+  
+  select[name=product-status] {
+    width:25%;
+  }
+  
+  select[name=product-status]:focus {
+    outline: none;
+  }
+  
+  select[name=product-cate] {
+    width: 15%;
+  }
+  
+  select[name=product-cate]:focus {
+    outline: none;
+  }
+  
+  .check-img {
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .check-img img {
+    margin-top: 30px;
+  }
+  
+  #product-cate {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  select {
+    background-color: white;
+    color: black;
+  }
+  input:focus{
+    outline: none;
+  }
+  textarea:focus{
+    outline: none;
+  }
+  #showCate{
+    width: 100%;
+    overflow-y: auto;
+    height: 300px;
+  }
+  .optionCategory{
+    white-space: nowrap;
+    cursor: pointer;
+    padding: 5px 2px;
+
+  }
+  .optionCategory:hover{
+    background-color: rgba(0, 0, 0, 0.124);
+    text-overflow: ellipsis;
+  }
